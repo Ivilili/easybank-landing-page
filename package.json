@@ -1,0 +1,13 @@
+{
+  "name": "easybank",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/ --recursive"
+  },
+  "dependencies": {
+    "node-sass": "^5.0.0",
+    "sass": "^1.32.5"
+  }
+}
